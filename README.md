@@ -1,6 +1,6 @@
 # ComplexCore1.16-21.11
 
-!!! This is a daughter plugin based on the ComplexCore1.13-1.19 plugin. For more information, please visit: https://github.com/f1nn1sch134/ComplexCore1.13-1.19 !!!
+!!! This is a daughter plugin based on the ComplexCore1.13-1.19 plugin. For more information, please visit: https://github.com/f1nn1sch134/ComplexCore !!!
 
 ComplexCore is a powerful and continuously evolving Minecraft core plugin designed to provide advanced functionality and a flexible foundation for complex systems and plugins.
 
