@@ -18,7 +18,7 @@ Changelog:
 
 Minecraft server: Minecraft Java Bukkit, Spigot, Paper 1.16 - 1.21.11
 
-Requirements: This plugin requires PySpigot in the plugin folder to run.
+Requirements: This plugin requires PySpigot in the plugin folder to run. The .py files must be placed in the files/plugins/PySpigot/scripts/ folder.
 
 If you want to test the plugin, you can also do so on the Minecraft Java server "mycraft.fritzkasten.de:25571"
 
